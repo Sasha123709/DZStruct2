@@ -43,8 +43,8 @@ int main()
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
 
-    students.push_back({ "Стефанюк", "П31-31", {1, 2, 1, 5} });
-    students.push_back({ "Петров", "З12-31", {8, 7, 11, 9} });
+    students.push_back({ "Петров", "П31-31", {1, 2, 1, 5} });
+    students.push_back({ "Стефанюк", "З12-31", {8, 7, 11, 9} });
     students.push_back({ "Кирилюк", "Р21-41", {10, 9, 9, 10} });
     students.push_back({ "Ревозан", "З23-31", {3, 1, 5, 3}});
     students.push_back({ "Кагилюк", "Р21-21", {10, 9, 9, 10} });
